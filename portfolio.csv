@@ -1,0 +1,11 @@
+borrower,sector,principal_mm,coupon_pct,maturity_date,ltv_pct,ebitda_mm,net_leverage,leverage_limit,interest_coverage,sentiment_score,recent_news
+AlphaCo,Healthcare,45,8.5,2027-06-30,62,12.3,3.8,5.0,2.8,0.6,Stable earnings and FDA approval pipeline strong
+BetaCorp,Retail,30,9.2,2026-03-31,81,4.1,5.4,5.0,1.3,-0.4,Q3 revenue miss and store closures announced
+GammaTech,Technology,60,7.8,2028-12-31,55,18.7,2.9,5.0,3.4,0.8,New SaaS contract wins ARR growing 22 percent YoY
+DeltaEnergy,Energy,50,10.1,2026-09-30,78,6.2,4.9,5.0,1.7,-0.3,Oil price headwinds and capex overrun reported
+EpsilonMedia,Media,25,8.9,2027-03-31,58,8.4,3.2,5.0,2.5,0.3,Streaming subscriber growth ahead of expectations
+ZetaLogistics,Industrials,40,9.5,2027-12-31,85,3.8,5.8,5.0,1.1,-0.6,Freight volumes down 18 percent and debt refinancing risk flagged
+EtaPharmaco,Healthcare,55,7.5,2029-06-30,50,22.1,2.4,5.0,4.1,0.7,Phase 3 trial success and partnership with major distributor
+ThetaRetail,Retail,35,9.8,2026-06-30,76,5.1,4.7,5.0,1.8,-0.2,Margin compression continues amid inventory buildup
+IotaSoftware,Technology,70,7.2,2029-03-31,48,25.3,2.1,5.0,4.8,0.9,Enterprise ARR up 35 percent and churn at historic lows
+KappaConstruct,Industrials,38,10.5,2026-12-31,88,3.2,6.1,5.0,1.0,-0.7,Project delays and cost overruns on two major contracts
