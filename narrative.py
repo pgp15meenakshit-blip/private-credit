@@ -3,8 +3,7 @@ import os
 from dotenv import load_dotenv
 
 load_dotenv()
-client = Groq(api_key=os.getenv("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"))
-
+client = os.getenv("GROQ_API_KEY")
 
 def generate_credit_narrative(row, valuation_result=None):
     """
